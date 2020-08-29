@@ -54,18 +54,15 @@ roles:
    start: 2006
    end: 2007
    employer: Expert Systems Pvt Ltd
-   description: Worked as a System Integration Engineer to the assemble, customizatize, configure and deploy server systems including top-of-the-line Intel Systems as Intel Blade Servers, 
-   Intel Storage Systems SSR212MA and SSR212MC2R, Network Attached Storage SS4000-E; Intel Xeon based Server Systems including S3000 and S5000. Also worked on Astaro Firewalls and (nfr) IPS/IDS. 
-   Actively involved in providing technical support of the aforementioned systems at the client premises.
+   description: Worked as a System Integration Engineer to the assemble, customizatize, configure and deploy server systems including top-of-the-line Intel Systems as Intel Blade Servers,<br/> Intel Storage Systems SSR212MA and SSR212MC2R, Network Attached Storage SS4000-E; Intel Xeon based Server Systems including S3000 and S5000. </br> Also worked on Astaro Firewalls and (nfr) IPS/IDS. Actively involved in providing technical support of the aforementioned systems at the client premises
 
 #Education is required
 education:
- - level: Masters  of Sience (M.Sc.)
+ - level: Masters  of Science (M.Sc.)
    date: 2013
    subject: Software Engineering
    school: University of Engineering & Technology Taxila 
 
-education:
  - level: Bachelor of Science (B.Sc.)
    date: 2006
    subject: Software Engineering
