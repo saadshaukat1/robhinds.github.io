@@ -55,12 +55,14 @@ roles:
    description: Quality Assurance and Enhancement at UET TAXILA, as per standards set forth by Quality
                 Assurance Agency, HEC. Conducted Academic Audit to determine faculty load and subject
                 teacher ratio.
- 
- - title: Support Engineer
-   start: 2007
-   end: 2008
-   employer: Viper Technlogies Pvt Ltd
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
+   
+ - title: Founding Member, Information Management Systems Research Group
+   start: 2010
+   end: 2011
+   employer: University of Engineering and Technology TAXILA
+   description: Manage and coordinate, product-based and practically oriented research at undergraduate
+                and postgraduate level.Working on the “Design and Implementation of Handheld Self-Configured Network
+                Management System using Qt”
  
  - title: Support Engineer
    start: 2007
