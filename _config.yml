@@ -25,7 +25,7 @@ skills:
 
 #Work experience is required
 roles:
- - title: Assistant Professor
+ - title: Assistant Professor Department of Software Engineering
    start: 2013
    end: Ongoing
    employer: The University of Lahore Islamabad Campus
@@ -41,7 +41,7 @@ roles:
                 sector, develop opportunities for applied research and explore opportunities for
                 technology transfer and the commercialization of University research.
 
- - title: Deputy Director Industrial Liaiason
+ - title: Deputy Director Industrial Liaison
    start: 2017
    end: Ongoing
    employer: The University of Lahore Islamabad Campus
@@ -100,4 +100,6 @@ intro: |
   
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 #additionalinfo: |
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="saadshaukat"><a class="LI-simple-link" href='https://pk.linkedin.com/in/saadshaukat?trk=profile-badge'>Saad Shaukat</a></div>
  
