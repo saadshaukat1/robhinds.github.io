@@ -29,7 +29,7 @@ roles:
    start: 2013
    end: Ongoing
    employer: The University of Lahore Islamabad Campus
-   description: My responsibilities are teaching the undergraduate courses Web Programming, Object-Oriented Software Engineering, 
+   description: Teach undergraduate courses Web Programming, Object-Oriented Software Engineering, 
                 Computer Architecture, Software Testing and Implementation, Advanced Software Engineering, Introduction to Computing, Computer
                 Programming, Management Information Systems, Multimedia Applications, Numerical Analysis and Professional Practices in Computer Science 
 
@@ -40,6 +40,27 @@ roles:
    description: Linking the University’s research community with the needs and priorities of the corporate
                 sector, develop opportunities for applied research and explore opportunities for
                 technology transfer and the commercialization of University research.
+
+ - title: Deputy Director Industrial Liaiason
+   start: 2017
+   end: Ongoing
+   employer: The University of Lahore Islamabad Campus
+   description: Initiate and manage engagement paradigms to facilitate faculty, alumni and Industry interactions.
+
+
+ - title: Data Analyst at Quality Enhancement Cell
+   start: 2013
+   end: 2011
+   employer: University of Engineering and Technology TAXILA
+   description: Quality Assurance and Enhancement at UET TAXILA, as per standards set forth by Quality
+                Assurance Agency, HEC. Conducted Academic Audit to determine faculty load and subject
+                teacher ratio.
+ 
+ - title: Support Engineer
+   start: 2007
+   end: 2008
+   employer: Viper Technlogies Pvt Ltd
+   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
  
  - title: Support Engineer
    start: 2007
@@ -77,5 +98,4 @@ intro: |
   
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 #additionalinfo: |
- #  <strong>Scala</strong>: My current role uses Scala as the primary language and have been building applications in Scala for the last two years. I am familiar with a range of Scala libraries, such as <a target="_blank" href="https://automateddeveloper.blogspot.com/2017/12/an-opinionated-guide-to-building-apis.html"> Akka-Http for building microservices</a> and <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/09/generic-programming-with-scala.html"> Shapeless for generic programming</a>, as well as familiar with a range of <a target="_blank" href="https://basementcrowd.com/2018/11/28/scala-the-aux-pattern-path-dependent-types/" >functional programming techniques available</a>.<br/><br/>
  
