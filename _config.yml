@@ -16,9 +16,9 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - C/C++
- - C# 
+ - C#
+ - VBA 
  - Python
- - 
  - SQL
  - MATLAB
  - 
@@ -29,12 +29,14 @@ roles:
    start: 2013
    end: Ongoing
    employer: The University of Lahore Islamabad Campus
-   description: 
+   description: My responsibilities are teaching the undergraduate courses Web Programming, Object-Oriented Software Engineering, 
+                Computer Architecture, Software Testing and Implementation, Advanced Software Engineering, Introduction to Computing, Computer
+                Programming, Management Information Systems, Multimedia Applications, Numerical Analysis and Professional Practices in Computer Science 
 
  - title: Deputy Director Office of Research Innovation and Collaboration
    start: 2019
    end: Ongoing
-   employer: Emerald Street Ventures
+   employer: The University of Lahore Islamabad Campus
    description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
  
  - title: Support Engineer
@@ -69,7 +71,7 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 intro: |
-  I am an engineer with 15 years experience working in technology. I have primarily worked on the JVM, but have worked across a broad range of technologies thereon: Java, Groovy, Android, Coldfusion and most recently Scala. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, extjs, knockout, backbone and most recently to React. <br/><br/>
+ A motivated and enthusiastic individual with an overall experience of 11 years diversified industry, academia, and administration experience. <br/><br/>
   
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 #additionalinfo: |
