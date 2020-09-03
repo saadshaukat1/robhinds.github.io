@@ -37,7 +37,9 @@ roles:
    start: 2019
    end: Ongoing
    employer: The University of Lahore Islamabad Campus
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
+   description: Linking the University’s research community with the needs and priorities of the corporate
+                sector, develop opportunities for applied research and explore opportunities for
+                technology transfer and the commercialization of University research.
  
  - title: Support Engineer
    start: 2007
