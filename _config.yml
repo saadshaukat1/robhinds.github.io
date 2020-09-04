@@ -89,13 +89,8 @@ education:
    school: University of Engineering & Technology Taxila 
 
 
-#This section is optional (as is the image link below)
-
-#This section is optional - embeds slideshows from speakerdeck
-# to get the speakerdeck ID copy the embed code and look for the data-it attribute
-
 #List of interesting Github repo/projects to include - optional
-intro: |
+intro:
  A motivated and enthusiastic individual with an overall experience of 11 years diversified industry, academia, and administration experience. <br/><br/>
   
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
