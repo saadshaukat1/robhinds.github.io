@@ -5,7 +5,8 @@ name: Saad Shaukat
 
 # Build settings
 markdown: kramdown
-
+ <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script> 
+  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="saadshaukat"><a class="LI-simple-link" href='https://pk.linkedin.com/in/saadshaukat?trk=profile-badge'>Saad Shaukat</a></div>
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
@@ -21,7 +22,9 @@ skills:
  - Python
  - SQL
  - MATLAB
- - 
+ - GitHub
+ - Docker
+ - CI/CD
 
 #Work experience is required
 roles:
@@ -94,6 +97,5 @@ intro:
  A motivated and enthusiastic individual with an overall experience of 11 years diversified industry, academia, and administration experience. <br/><br/>
   
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: 
-  <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script> 
-  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="saadshaukat"><a class="LI-simple-link" href='https://pk.linkedin.com/in/saadshaukat?trk=profile-badge'>Saad Shaukat</a></div>
+#additionalinfo: 
+ 
