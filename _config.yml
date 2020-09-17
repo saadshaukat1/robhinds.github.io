@@ -13,7 +13,7 @@ primarylinks:
  - title: GitHub
    url: https://github.com/saadshaukat1
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/saadshaukat
+   url: https://www.linkedin.com/in/saadshaukat
 #Any buzzword skills you want to include
 skills:
  - C/C++
@@ -23,8 +23,12 @@ skills:
  - SQL
  - MATLAB
  - GitHub
- - Docker
+ - Docker Swarm
  - CI/CD
+ - Jenkins
+ - Containers
+ - Java
+ 
 
 #Work experience is required
 roles:
